@@ -1,0 +1,11 @@
+{
+    "name": "leopa/cow-say",
+    "autoload": {
+        "psr-4": {
+            "Leopa\\CowSay\\": "src/"
+        }
+    },
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    }
+}
